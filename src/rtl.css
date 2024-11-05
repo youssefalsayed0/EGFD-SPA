@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400..700&display=swap");
+
+[dir="rtl"] body {
+  font-family: "Rubik", sans-serif;
+}
+
+[dir="rtl"] p {
+  line-height: 1.8;
+}
+
+[dir="rtl"] .work-process-section .work-pro-items .item h4 span {
+  right: 0;
+  left: unset;
+}
+
+[dir="rtl"] .services-section .services-items .item .info .button a::before {
+  position: absolute;
+  right: 0;
+  bottom: -5px;
+  content: "";
+  height: 1px;
+  width: 40px;
+  border-bottom: 1px dashed;
+  transition: var(--main-transition);
+}
+
+[dir="rtl"]
+  .services-section
+  .services-items
+  .item:hover
+  .info
+  .button
+  a::before {
+  width: 100%;
+}
+
+[dir="rtl"] .services-section .services-items .item .info .button a::after {
+  display: none;
+}
+
+[dir="rtl"] .services-section .services-items .item .info > i {
+  right: 40px;
+  left: unset;
+}
+
+[dir="rtl"] .why-us-section .info li::after {
+  right: 0;
+  left: unset;
+}
+
+[dir="rtl"] .main-heading h2::before,
+[dir="rtl"] .main-heading h2::after {
+  right: 50%;
+  left: unset;
+}
+
+[dir="rtl"] .services-details-items .services-sidebar .widget-title::after,
+[dir="rtl"]
+  .services-details-items
+  .services-sidebar
+  .services-list
+  li
+  .active::before {
+  right: 0;
+  left: unset;
+}
+
+[dir="rtl"] .services-details-items .services-sidebar .services-list a::after {
+  right: 88%;
+  left: unset;
+  content: "\f053";
+}
+
+[dir="rtl"] .word-section .container .text span::after {
+  right: 0;
+  left: unset;
+  bottom: 0;
+}
+[dir="rtl"] .word-section .container .text span {
+  font-family: "Noto Nastaliq Urdu", Sans-serif;
+}
+
+/* rtl-aos.css */
+
+[dir="rtl"] [data-aos="fade-left"] {
+  transform: translateX(-100px);
+}
+
+[dir="rtl"] [data-aos="fade-right"] {
+  transform: translateX(100px);
+}
+
+[dir="rtl"] [data-aos="slide-left"] {
+  transform: translateX(-100px);
+}
+
+[dir="rtl"] [data-aos="slide-right"] {
+  transform: translateX(100px);
+}
+
+
+
+
+@media only screen and (min-width: 767px) {
+  [dir="rtl"] footer .data {
+    text-align: start !important;
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "main-heading": {
+    "about": {
+      "title": "About Us",
+      "sub-title": "Who We Are"
+    },
+    "services": {
+      "title": "Our Services",
+      "sub-title": "What We Do"
+    },
+    "work": {
+      "title": "Work Process",
+      "sub-title": "How We Work"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "sub-title": ""
+    },
+    "vision": {
+      "title": "Our Vision",
+      "sub-title": ""
+    }
+  },
+  "banner": {
+    "home": "home",
+    "about": "about-us",
+    "services": "services",
+    "contact-us": "contact-us",
+    "products": "products"
+  },
+
+  "nav": {
+    "navLink1": "Home",
+    "navLink2": "About us",
+    "navLink3": "Products",
+    "navLink4": "Services",
+    "navLink5": "Contact US"
+  },
+  "landing": {
+    "title": "Step into a realm of innovative drying solutions.",
+    "description": "Welcome to The Egyptian German Company for Food (E.G.F.D) Industries and Drying, established in 2017 in 10th of Ramadan, Egypt. Our journey began with a vision to redefine the food industry landscape.",
+    "button": {
+      "text": "Discover More"
+    }
+  },
+  "features-section": {
+    "card1": "Years of experience",
+    "years": "4",
+    "card2": "Hardworking staff and engineer's working in our company."
+  },
+  "about-section": {
+    "title": "Company for Food (E.G.F.D) Industries and Drying. ",
+    "description1": "Established in 2017 as an Egyptian joint-stock company in the vibrant city of 10th of Ramadan, Egyptour journey began with a vision to redefine the food industry landscape. From our inception in 2019,we've been driven by a dynamic team of young professionals dedicated to continuous self-improvement and pioneering advancements in the food and drying sectors.",
+    "description2": " With a relentless commitment to service quality and innovation,we strive to exceed expectations and empower our clients with cutting-edge solutions. Welcome to a world where every interaction is an invitation  to elevate your culinary experience. ",
+    "button": "Know More",
+    "list1": "Pioneering advancements in food technology",
+    "list2": "Empowering clients with innovative solutions"
+  },
+  "services-section": {
+    "card1": {
+      "title": "drying",
+      "description": "Our dry services include tolling solutions for various food ingredients, providing comprehensive support for manufacturing processes. From drying to blending to packaging, we offer tailored services to meet the specific needs of our clients, ensuring efficiency and quality at every step."
+    },
+    "card2": {
+      "title": "Maltodextrin ",
+      "description": "Maltodextrin is a versatile ingredient that serves as a carrier for flavors, colors, and vitamins, essential for canned food preservation. As Egypt’s only manufacturer of colored maltodextrin, we offer innovative formulation options derived from corn, rice, potato starch, or wheat."
+    },
+    "button": "read more "
+  },
+
+  "call-section": {
+    "title": "Elevate Your Culinary Experience with E.G.F.D",
+    "description": "At The Egyptian German Company for Food Industries and Drying (E.G.F.D), we specialize in delivering cutting-edge food drying solutions that preserve the essence of nature’s finest ingredients. With a perfect blend of traditional techniques and modern innovation, we ensure that every product retains its natural flavor, color, and nutrition.",
+    "button": "Join Us Now"
+  },
+
+  "work-section": {
+    "card1": {
+      "title": "Preparation",
+      "description": "We start by collaborating with our customers to select and prepare their raw materials. This includes cleaning, cutting to uniform sizes, and any necessary treatments to enhance flavor and color. "
+    },
+    "card2": {
+      "title": "Drying",
+      "description": "Using state-of-the-art methods such as hot air drying, freeze drying, or spray drying, we efficiently remove moisture from the specific ingredients provided by our clients. Our tailored approach ensures the highest quality results for each unique product. "
+    },
+    "card3": {
+      "title": "Packaging",
+      "description": "Once the drying process is complete, we cool and package the food to protect it from moisture and contamination. Our packaging solutions, including vacuum sealing and moisture-resistant materials, are designed to extend shelf life and maintain the integrity of the product. "
+    }
+  },
+  "why-us-section": {
+    "title": "Why Choose E.G.F.D",
+    "description": "Our commitment to quality, innovation, and customer satisfaction sets us apart in  the industry.",
+    "button": "Contact Us",
+    "content1": {
+      "title": "Quality",
+      "description": " We set the bar high, ensuring that every product and service we deliver surpasses industry standards, leaving a lasting impression of excellence."
+    },
+    "content2": {
+      "title": "Innovation",
+      "description": "We thrive on innovation, constantly exploring fresh ideas and cutting-edge technologies to elevate our offerings and refine our processes"
+    },
+    "content3": {
+      "title": "Customer Satisfaction",
+      "description": "Our customer-centric approach ensures that every interaction is personalized, efficient, and effective, fostering long-term partnerships and trust."
+    }
+  },
+  "word-section": {
+    "title": "Message from the Vice Chairman and CEO",
+    "description": "At EGFD, we are committed to excellence in every aspect of our food drying process. Our innovative techniques and dedicated team ensure that we deliver the highest quality products tailored to our customers' needs. We believe in building lasting partnerships and are proud to support the culinary industry with our cutting-edge solutions. Together, let’s elevate the standards of food preservation and quality.",
+    "name": "Ahmed Fouad Ayad"
+  },
+  "our-mission-section": {
+    "title": "Our mission at The Egyptian German Company",
+    "description": "for Food Industries and Drying is nothing short of ambitious: to set the standard for exceptional quality food products ton a global scale. We are driven by a relentless commitment to excellence in every aspect of our operation, from meticulous manufacturing processes to rigorous quality assurance protocols and punctual delivery timelines. Our journey knows no bounds as we actively seek out new markets and opportunities to expand our horizons, ensuring that our unparalleled products reach and delight customers around the world."
+  },
+  "our-vision-section": {
+    "title": "Our Vision at The Egyptian German Company",
+    "description": "At E.G.F.D, our vision is fueled by a relentless pursuit of excellence. We are dedicated to revolutionizing the food market by offering innovative and competitive products crafted with precision by our team of top-tier technical experts. With a commitment to staying ahead of the curve, we harness the power of cutting-edge technology and state-of-the-art production lines in drying. By adhering rigorously to international quality standards, we ensure that every product we deliver not only meets but exceeds the expectations of our valued customers"
+  },
+
+  "service-details-section": {
+    "links": {
+      "malto": "Maltodextrin",
+      "drying": "Drying SERVICES"
+    },
+    "contact": {
+      "help": "Need any help?"
+    },
+
+    "brochure": {
+      "title": "brochure",
+      "download1": " Download Docs",
+      "download2": "Company details"
+    }
+  },
+
+  "product-details-section": {
+    "links": {
+      "creamer": "creamer",
+      "veg": "VEGETABLE FAT POWDER",
+      "animal": "ANIMAL FAT POWDER",
+      "flavour": "FOOD FLAVOUR",
+      "eggs": "DRY EGGS",
+      "malto": "Maltodextrin"
+    }
+  },
+
+  "usage": "Usage",
+
+  "malto": {
+    "title": "MALTODEXTRIN",
+    "description": "Maltodextrin, a versatile ingredient in the food industry, serves as a carrier for flavors, food colors, vitamins, and fillers. It plays a vital role in canned food preservation and is known for its economic and effective solutions for food factories. Our maltodextrin consists of carbohydrates derived from corn, rice, potato starch, or wheat, providing a moderate sweet taste and a density of 300 to 450 kg/m³. We are proud to be the only factory in Egypt that manufactures colored maltodextrin, offering innovative options for your formulations. In addition to its traditional use as a bulking agent, maltodextrin also serves as a fat replacer in low-calorie foods, offering a desirable texture and mouthfeel. It is highly soluble and works well in a wide range of applications, including sports drinks, baked goods, sauces, and confectionery. Our custom blending options allow for the creation of tailored maltodextrin products to meet specific product requirements, such as enhanced stability, improved texture, or moisture retention. With strict adherence to global food safety standards, our maltodextrin is safe, reliable, and customizable to fit the diverse needs of modern food manufacturing. Whether you're looking to innovate with color or enhance performance with functional ingredients, our solutions can help you achieve your product development goals.",
+    "list": {
+      "1": {
+        "head": "Volume, Texture, and Flavor",
+        "content": "Perfect for enhancing volume, texture, and flavor in various food products, including soups, sauces, desserts, and powdered drinks."
+      },
+      "2": {
+        "head": "Baked Goods",
+        "content": "Improves moisture retention and shelf life in baked goods like bread, cakes, and cookies."
+      },
+      "3": {
+        "head": "Confectionery",
+        "content": "Acts as a binding agent in candies and gummies, enhancing chewiness and stability."
+      },
+      "4": {
+        "head": "Dairy Products",
+        "content": "Used in yogurt and ice cream formulations to create a creamier mouthfeel while reducing fat content."
+      },
+      "5": {
+        "head": "Seasonings and Spices",
+        "content": "Serves as a carrier for flavorings and seasonings in snacks, ensuring even distribution."
+      },
+      "6": {
+        "head": "Sports and Nutritional Supplements",
+        "content": "Provides quick energy release in sports and nutritional supplements, enhancing flavor and improving solubility."
+      },
+      "7": {
+        "head": "Snack Foods",
+        "content": "Contributes to texture and crunchiness in snack foods, such as chips and crackers."
+      },
+      "8": {
+        "head": "Ready-to-Eat Meals",
+        "content": "Helps stabilize and thicken sauces and gravies in ready-to-eat meals, improving the overall eating experience."
+      }
+    }
+  },
+
+  "drying": {
+    "title": "DRY SERVICES (AS A TOLLER)",
+    "description": "Our dry services include tolling solutions for various food ingredients, providing comprehensive support for manufacturing processes. From drying to blending to packaging, we offer tailored services to meet the specific needs of our clients, ensuring efficiency and quality at every step. With state-of-the-art equipment, we specialize in moisture reduction and product preservation, allowing for extended shelf life and improved stability of food products. Our services cater to a wide range of industries, including food, pharmaceuticals, and nutraceuticals, ensuring that every batch is handled with precision and care. We also provide custom formulations and blending options, helping businesses achieve specific product characteristics while optimizing production costs. In addition, our robust quality control measures guarantee compliance with industry standards, delivering products that meet both domestic and international regulatory requirements. Whether you're looking to scale production or streamline operations, our tolling services offer flexibility, cost savings, and expert support to help you succeed.",
+    "list": {
+      "1": {
+        "head": "Outsourcing",
+        "content": "Suitable for food manufacturers looking to outsource specific aspects of their production process."
+      },
+      "2": {
+        "head": "Resource Optimization",
+        "content": "Optimizes resource allocation and streamlines operations."
+      },
+      "3": {
+        "head": "Reducing Downtime",
+        "content": "Ideal for companies seeking to reduce downtime and enhance production efficiency."
+      },
+      "4": {
+        "head": "Core Competencies",
+        "content": "Allows businesses to focus on core competencies without compromising product quality."
+      },
+      "5": {
+        "head": "Scaling Production",
+        "content": "Benefits manufacturers looking to scale production without the need for additional infrastructure or capital investment."
+      },
+      "6": {
+        "head": "Temporary Support",
+        "content": "Perfect for small to medium-sized businesses needing temporary support during peak production periods."
+      },
+      "7": {
+        "head": "Large-Scale Operations",
+        "content": "Supports large-scale operations aiming to optimize specific phases, such as drying or blending."
+      },
+      "8": {
+        "head": "New Product Lines",
+        "content": "Excellent for businesses introducing new product lines that require specialized processing or testing before full-scale production."
+      }
+    }
+  },
+
+  "animal-fat": {
+    "title": "ANIMAL FAT POWDER",
+    "description": "Our Premium Animal Fat Powders, derived from High-Quality Fats, add richness and depth of flavor to your dishes. Bursting with flavor, our Powders enhance the overall taste and aroma of your culinary creations. Branches include Chicken fats, Beef Fats & Dairy Fats Powders.",
+
+    "usage-content": "Perfect for seasoning, marinating, and enhancing the flavor profile of soups, sauces, and meat dishes."
+  },
+  "veg-fat": {
+    "title": "VEGETABLE FAT POWDER",
+    "description": "Our vegetable fat powders, sourced from the finest oils, add richness and creaminess to your culinary creations. With a range of fat grades (20% to 80%) and customizable options, our powders meet the diverse needs of food manufacturers. Certified Halal and Kosher, our vegetable fat powders ensure compliance with religious dietary requirements.",
+    "usage": "Usage",
+    "usage-content": "Suitable for enhancing texture and mouthfeel in baked goods, sauces, dressings, and dairy products."
+  },
+  "dry-eggs": {
+    "title": "DRY EGGS",
+    "description": "Our dry egg products include egg yolk powder, egg whites’ powder, and whole egg powder, offering versatile solutions for various culinary and industrial applications. These products provide essential nutrients and are convenient for storage and use.",
+
+    "usage-content": "Ideal for baking, cooking, and food manufacturing, enhancing the nutritional value and texture of your products."
+  },
+  "flavour": {
+    "title": "FOOD FLAVOUR",
+    "description": "Our food flavors include natural, aroma, and neutral flavors, catering to a wide range of culinary applications. Natural flavors offer authentic taste profiles, while aroma flavors branch into savory (like meat and beef) and sweet (like lemon, orange, caramel, and chocolate). Neutral flavors provide versatility and balance to various dishes.",
+    "usage-content": "Ideal for enhancing the taste and aroma of a variety of food products, including beverages, confectionery, savory snacks, and more."
+  },
+  "creamer": {
+    "title": "CREAMER",
+    "description": "Our creamers, available in dairy and non-dairy options, add a rich and creamy texture to your beverages. Crafted with precision, our creamers dissolve seamlessly into hot drinks, delivering a delightful sensory experience with every sip.",
+    "usage-content": "Ideal for enhancing the flavor and creaminess of coffee, tea, milk tea, and flavored milk."
+  },
+
+  "footer": {
+    "social": "Get connected with us on social networks:",
+    "copy": "Copyright © 2024 E.G.F.D. All Rights Reserved",
+    "title": "EGFD",
+    "content": "At The Egyptian German Company for Food Industries and Drying (E.G.F.D), we specialize in delivering cutting-edge food drying solutions that preserve the essence of nature’s finest ingredients.",
+    "products": {
+      "title": "Products",
+      "link1": "Maltodextrin",
+      "link2": "Fat powder",
+      "link3": "Food flavour",
+      "link4": "Dry eggs",
+      "link5": "Creamer"
+    },
+    "useful links": {
+      "title": "useful links",
+      "link1": "Home",
+      "link2": "Products",
+      "link3": "Services",
+      "link4": "About us",
+      "link5": "Contact Us"
+    },
+    "contact": {
+      "title": "contact"
+    }
+  },
+
+  "contact": {
+    "title": "Send a message",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Tell Us About Your Needs *",
+    "location": "Location",
+    "call": "Make a Call",
+    "send": "Send a Mail",
+    "button": "Send Message"
+  }
+}
